@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple project for showing how to use Git and GitHub together.
+This is a simple project for showing how to use Git and GitHub together. Updating for emergy fix after stashing.
 
 ## Introduction
 
