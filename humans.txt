@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Christie  christiehoeksema1@gmail.com @christie
 
 # THANKS
 
-    <name>
+    All my students!
 
 # TECHNOLOGY COLOPHON
 
